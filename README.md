@@ -145,15 +145,16 @@ Porque ele foi plantado assim: **com uma única chave, e essa chave é você.**
 <div align="center">
 
 ```
-🌻
-          🌻
-         🌻💛
-        🌻💛🌻
-       🌻💛CEL💛🌻
-      🌻💛💛💛🌻
-     🌻💛💛💛💛🌻
-    🌻💛💛💛💛🌻
-          🌿  
+            🌻
+           🌻🌻
+          🌻💛🌻
+         🌻💛💛🌻
+        🌻💛💛💛🌻
+       🌻💛CELI💛🌻
+      🌻💛💛💛💛💛🌻
+     🌻💛💛💛💛💛💛🌻
+    🌻💛💛💛💛💛💛💛🌻
+            🌿  
 ```
 
 *Ela floresceu aqui esperando por você.*
